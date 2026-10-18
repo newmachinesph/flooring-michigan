@@ -1,0 +1,4902 @@
+[
+  {
+    "id": "product-1",
+    "title": "COREtec Hardwood 001",
+    "subtitle": "Hardwood | Solid | Hand finished",
+    "price": 3.0,
+    "badge": "Best seller",
+    "tags": [
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      },
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "COREtec Hardwood 001 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$6-$10 / sq.ft",
+    "meta": {
+      "type": "Hardwood",
+      "brand": "COREtec",
+      "application": "Residential",
+      "colorTone": "Warm Honey",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 3
+    }
+  },
+  {
+    "id": "product-2",
+    "title": "Quick-Step Luxury Vinyl 002",
+    "subtitle": "Luxury Vinyl | Waterproof core | Matte",
+    "price": 3.9,
+    "badge": "Designer pick",
+    "tags": [
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      },
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Quick-Step Luxury Vinyl 002 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$7-$11 / sq.ft",
+    "meta": {
+      "type": "Luxury Vinyl",
+      "brand": "Quick-Step",
+      "application": "Builder",
+      "colorTone": "Whites & Creams",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 4
+    }
+  },
+  {
+    "id": "product-3",
+    "title": "Lauzon Carpet 003",
+    "subtitle": "Carpet | Plush | Stain shield",
+    "price": 4.8,
+    "badge": "Limited stock",
+    "tags": [
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      },
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Lauzon Carpet 003 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Carpet",
+      "brand": "Lauzon",
+      "application": "Light Commercial",
+      "colorTone": "Smoky Neutral",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 5
+    }
+  },
+  {
+    "id": "product-4",
+    "title": "Duchateau Carpet Tile 004",
+    "subtitle": "Carpet Tile | Modular | Acoustic backing",
+    "price": 4.65,
+    "badge": "Studio favorite",
+    "tags": [
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      },
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Duchateau Carpet Tile 004 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Carpet Tile",
+      "brand": "Duchateau",
+      "application": "Commercial",
+      "colorTone": "Charcoal",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 6
+    }
+  },
+  {
+    "id": "product-5",
+    "title": "Shaw Laminate 005",
+    "subtitle": "Laminate | Scratch guard | Matte",
+    "price": 5.55,
+    "badge": "Top searched",
+    "tags": [
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Shaw Laminate 005 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$11-$15 / sq.ft",
+    "meta": {
+      "type": "Laminate",
+      "brand": "Shaw",
+      "application": "Residential",
+      "colorTone": "Modern Grey",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 7
+    }
+  },
+  {
+    "id": "product-6",
+    "title": "Anderson Tuftex Stone & Tile 006",
+    "subtitle": "Stone & Tile | Oversized | Indoor/outdoor",
+    "price": 6.45,
+    "badge": "New drop",
+    "tags": [
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      },
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Anderson Tuftex Stone & Tile 006 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$12-$16 / sq.ft",
+    "meta": {
+      "type": "Stone & Tile",
+      "brand": "Anderson Tuftex",
+      "application": "Builder",
+      "colorTone": "Natural Oak",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 8
+    }
+  },
+  {
+    "id": "product-7",
+    "title": "Mannington Area Rugs 007",
+    "subtitle": "Area Rugs | Hand-loomed | Layer friendly",
+    "price": 3.0,
+    "badge": "Best seller",
+    "tags": [
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Mannington Area Rugs 007 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$6-$10 / sq.ft",
+    "meta": {
+      "type": "Area Rugs",
+      "brand": "Mannington",
+      "application": "Light Commercial",
+      "colorTone": "Warm Honey",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 9
+    }
+  },
+  {
+    "id": "product-8",
+    "title": "COREtec Hardwood 008",
+    "subtitle": "Hardwood | Solid | Hand finished",
+    "price": 3.9,
+    "badge": "Designer pick",
+    "tags": [
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "COREtec Hardwood 008 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$7-$11 / sq.ft",
+    "meta": {
+      "type": "Hardwood",
+      "brand": "COREtec",
+      "application": "Commercial",
+      "colorTone": "Whites & Creams",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 10
+    }
+  },
+  {
+    "id": "product-9",
+    "title": "Quick-Step Luxury Vinyl 009",
+    "subtitle": "Luxury Vinyl | Waterproof core | Matte",
+    "price": 4.8,
+    "badge": "Limited stock",
+    "tags": [
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      },
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Quick-Step Luxury Vinyl 009 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Luxury Vinyl",
+      "brand": "Quick-Step",
+      "application": "Residential",
+      "colorTone": "Smoky Neutral",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 11
+    }
+  },
+  {
+    "id": "product-10",
+    "title": "Lauzon Carpet 010",
+    "subtitle": "Carpet | Plush | Stain shield",
+    "price": 4.65,
+    "badge": "Studio favorite",
+    "tags": [
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      },
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Lauzon Carpet 010 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Carpet",
+      "brand": "Lauzon",
+      "application": "Builder",
+      "colorTone": "Charcoal",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 12
+    }
+  },
+  {
+    "id": "product-11",
+    "title": "Duchateau Carpet Tile 011",
+    "subtitle": "Carpet Tile | Modular | Acoustic backing",
+    "price": 5.55,
+    "badge": "Top searched",
+    "tags": [
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      },
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Duchateau Carpet Tile 011 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$11-$15 / sq.ft",
+    "meta": {
+      "type": "Carpet Tile",
+      "brand": "Duchateau",
+      "application": "Light Commercial",
+      "colorTone": "Modern Grey",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 3
+    }
+  },
+  {
+    "id": "product-12",
+    "title": "Shaw Laminate 012",
+    "subtitle": "Laminate | Scratch guard | Matte",
+    "price": 6.45,
+    "badge": "New drop",
+    "tags": [
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      },
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Shaw Laminate 012 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$12-$16 / sq.ft",
+    "meta": {
+      "type": "Laminate",
+      "brand": "Shaw",
+      "application": "Commercial",
+      "colorTone": "Natural Oak",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 4
+    }
+  },
+  {
+    "id": "product-13",
+    "title": "Anderson Tuftex Stone & Tile 013",
+    "subtitle": "Stone & Tile | Oversized | Indoor/outdoor",
+    "price": 3.0,
+    "badge": "Best seller",
+    "tags": [
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Anderson Tuftex Stone & Tile 013 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$6-$10 / sq.ft",
+    "meta": {
+      "type": "Stone & Tile",
+      "brand": "Anderson Tuftex",
+      "application": "Residential",
+      "colorTone": "Warm Honey",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 5
+    }
+  },
+  {
+    "id": "product-14",
+    "title": "Mannington Area Rugs 014",
+    "subtitle": "Area Rugs | Hand-loomed | Layer friendly",
+    "price": 3.9,
+    "badge": "Designer pick",
+    "tags": [
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      },
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Mannington Area Rugs 014 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$7-$11 / sq.ft",
+    "meta": {
+      "type": "Area Rugs",
+      "brand": "Mannington",
+      "application": "Builder",
+      "colorTone": "Whites & Creams",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 6
+    }
+  },
+  {
+    "id": "product-15",
+    "title": "COREtec Hardwood 015",
+    "subtitle": "Hardwood | Solid | Hand finished",
+    "price": 4.8,
+    "badge": "Limited stock",
+    "tags": [
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "COREtec Hardwood 015 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Hardwood",
+      "brand": "COREtec",
+      "application": "Light Commercial",
+      "colorTone": "Smoky Neutral",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 7
+    }
+  },
+  {
+    "id": "product-16",
+    "title": "Quick-Step Luxury Vinyl 016",
+    "subtitle": "Luxury Vinyl | Waterproof core | Matte",
+    "price": 4.65,
+    "badge": "Studio favorite",
+    "tags": [
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Quick-Step Luxury Vinyl 016 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Luxury Vinyl",
+      "brand": "Quick-Step",
+      "application": "Commercial",
+      "colorTone": "Charcoal",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 8
+    }
+  },
+  {
+    "id": "product-17",
+    "title": "Lauzon Carpet 017",
+    "subtitle": "Carpet | Plush | Stain shield",
+    "price": 5.55,
+    "badge": "Top searched",
+    "tags": [
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      },
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Lauzon Carpet 017 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$11-$15 / sq.ft",
+    "meta": {
+      "type": "Carpet",
+      "brand": "Lauzon",
+      "application": "Residential",
+      "colorTone": "Modern Grey",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 9
+    }
+  },
+  {
+    "id": "product-18",
+    "title": "Duchateau Carpet Tile 018",
+    "subtitle": "Carpet Tile | Modular | Acoustic backing",
+    "price": 6.45,
+    "badge": "New drop",
+    "tags": [
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      },
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Duchateau Carpet Tile 018 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$12-$16 / sq.ft",
+    "meta": {
+      "type": "Carpet Tile",
+      "brand": "Duchateau",
+      "application": "Builder",
+      "colorTone": "Natural Oak",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 10
+    }
+  },
+  {
+    "id": "product-19",
+    "title": "Shaw Laminate 019",
+    "subtitle": "Laminate | Scratch guard | Matte",
+    "price": 3.0,
+    "badge": "Best seller",
+    "tags": [
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      },
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Shaw Laminate 019 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$6-$10 / sq.ft",
+    "meta": {
+      "type": "Laminate",
+      "brand": "Shaw",
+      "application": "Light Commercial",
+      "colorTone": "Warm Honey",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 11
+    }
+  },
+  {
+    "id": "product-20",
+    "title": "Anderson Tuftex Stone & Tile 020",
+    "subtitle": "Stone & Tile | Oversized | Indoor/outdoor",
+    "price": 3.9,
+    "badge": "Designer pick",
+    "tags": [
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      },
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Anderson Tuftex Stone & Tile 020 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$7-$11 / sq.ft",
+    "meta": {
+      "type": "Stone & Tile",
+      "brand": "Anderson Tuftex",
+      "application": "Commercial",
+      "colorTone": "Whites & Creams",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 12
+    }
+  },
+  {
+    "id": "product-21",
+    "title": "Mannington Area Rugs 021",
+    "subtitle": "Area Rugs | Hand-loomed | Layer friendly",
+    "price": 4.8,
+    "badge": "Limited stock",
+    "tags": [
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Mannington Area Rugs 021 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Area Rugs",
+      "brand": "Mannington",
+      "application": "Residential",
+      "colorTone": "Smoky Neutral",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 3
+    }
+  },
+  {
+    "id": "product-22",
+    "title": "COREtec Hardwood 022",
+    "subtitle": "Hardwood | Solid | Hand finished",
+    "price": 4.65,
+    "badge": "Studio favorite",
+    "tags": [
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      },
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "COREtec Hardwood 022 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Hardwood",
+      "brand": "COREtec",
+      "application": "Builder",
+      "colorTone": "Charcoal",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 4
+    }
+  },
+  {
+    "id": "product-23",
+    "title": "Quick-Step Luxury Vinyl 023",
+    "subtitle": "Luxury Vinyl | Waterproof core | Matte",
+    "price": 5.55,
+    "badge": "Top searched",
+    "tags": [
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Quick-Step Luxury Vinyl 023 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$11-$15 / sq.ft",
+    "meta": {
+      "type": "Luxury Vinyl",
+      "brand": "Quick-Step",
+      "application": "Light Commercial",
+      "colorTone": "Modern Grey",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 5
+    }
+  },
+  {
+    "id": "product-24",
+    "title": "Lauzon Carpet 024",
+    "subtitle": "Carpet | Plush | Stain shield",
+    "price": 6.45,
+    "badge": "New drop",
+    "tags": [
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Lauzon Carpet 024 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$12-$16 / sq.ft",
+    "meta": {
+      "type": "Carpet",
+      "brand": "Lauzon",
+      "application": "Commercial",
+      "colorTone": "Natural Oak",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 6
+    }
+  },
+  {
+    "id": "product-25",
+    "title": "Duchateau Carpet Tile 025",
+    "subtitle": "Carpet Tile | Modular | Acoustic backing",
+    "price": 3.0,
+    "badge": "Best seller",
+    "tags": [
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      },
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Duchateau Carpet Tile 025 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$6-$10 / sq.ft",
+    "meta": {
+      "type": "Carpet Tile",
+      "brand": "Duchateau",
+      "application": "Residential",
+      "colorTone": "Warm Honey",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 7
+    }
+  },
+  {
+    "id": "product-26",
+    "title": "Shaw Laminate 026",
+    "subtitle": "Laminate | Scratch guard | Matte",
+    "price": 3.9,
+    "badge": "Designer pick",
+    "tags": [
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      },
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Shaw Laminate 026 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$7-$11 / sq.ft",
+    "meta": {
+      "type": "Laminate",
+      "brand": "Shaw",
+      "application": "Builder",
+      "colorTone": "Whites & Creams",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 8
+    }
+  },
+  {
+    "id": "product-27",
+    "title": "Anderson Tuftex Stone & Tile 027",
+    "subtitle": "Stone & Tile | Oversized | Indoor/outdoor",
+    "price": 4.8,
+    "badge": "Limited stock",
+    "tags": [
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      },
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Anderson Tuftex Stone & Tile 027 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Stone & Tile",
+      "brand": "Anderson Tuftex",
+      "application": "Light Commercial",
+      "colorTone": "Smoky Neutral",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 9
+    }
+  },
+  {
+    "id": "product-28",
+    "title": "Mannington Area Rugs 028",
+    "subtitle": "Area Rugs | Hand-loomed | Layer friendly",
+    "price": 4.65,
+    "badge": "Studio favorite",
+    "tags": [
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      },
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Mannington Area Rugs 028 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Area Rugs",
+      "brand": "Mannington",
+      "application": "Commercial",
+      "colorTone": "Charcoal",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 10
+    }
+  },
+  {
+    "id": "product-29",
+    "title": "COREtec Hardwood 029",
+    "subtitle": "Hardwood | Solid | Hand finished",
+    "price": 5.55,
+    "badge": "Top searched",
+    "tags": [
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "COREtec Hardwood 029 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$11-$15 / sq.ft",
+    "meta": {
+      "type": "Hardwood",
+      "brand": "COREtec",
+      "application": "Residential",
+      "colorTone": "Modern Grey",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 11
+    }
+  },
+  {
+    "id": "product-30",
+    "title": "Quick-Step Luxury Vinyl 030",
+    "subtitle": "Luxury Vinyl | Waterproof core | Matte",
+    "price": 6.45,
+    "badge": "New drop",
+    "tags": [
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      },
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Quick-Step Luxury Vinyl 030 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$12-$16 / sq.ft",
+    "meta": {
+      "type": "Luxury Vinyl",
+      "brand": "Quick-Step",
+      "application": "Builder",
+      "colorTone": "Natural Oak",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 12
+    }
+  },
+  {
+    "id": "product-31",
+    "title": "Lauzon Carpet 031",
+    "subtitle": "Carpet | Plush | Stain shield",
+    "price": 3.0,
+    "badge": "Best seller",
+    "tags": [
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Lauzon Carpet 031 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$6-$10 / sq.ft",
+    "meta": {
+      "type": "Carpet",
+      "brand": "Lauzon",
+      "application": "Light Commercial",
+      "colorTone": "Warm Honey",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 3
+    }
+  },
+  {
+    "id": "product-32",
+    "title": "Duchateau Carpet Tile 032",
+    "subtitle": "Carpet Tile | Modular | Acoustic backing",
+    "price": 3.9,
+    "badge": "Designer pick",
+    "tags": [
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Duchateau Carpet Tile 032 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$7-$11 / sq.ft",
+    "meta": {
+      "type": "Carpet Tile",
+      "brand": "Duchateau",
+      "application": "Commercial",
+      "colorTone": "Whites & Creams",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 4
+    }
+  },
+  {
+    "id": "product-33",
+    "title": "Shaw Laminate 033",
+    "subtitle": "Laminate | Scratch guard | Matte",
+    "price": 4.8,
+    "badge": "Limited stock",
+    "tags": [
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      },
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Shaw Laminate 033 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Laminate",
+      "brand": "Shaw",
+      "application": "Residential",
+      "colorTone": "Smoky Neutral",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 5
+    }
+  },
+  {
+    "id": "product-34",
+    "title": "Anderson Tuftex Stone & Tile 034",
+    "subtitle": "Stone & Tile | Oversized | Indoor/outdoor",
+    "price": 4.65,
+    "badge": "Studio favorite",
+    "tags": [
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      },
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Anderson Tuftex Stone & Tile 034 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Stone & Tile",
+      "brand": "Anderson Tuftex",
+      "application": "Builder",
+      "colorTone": "Charcoal",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 6
+    }
+  },
+  {
+    "id": "product-35",
+    "title": "Mannington Area Rugs 035",
+    "subtitle": "Area Rugs | Hand-loomed | Layer friendly",
+    "price": 5.55,
+    "badge": "Top searched",
+    "tags": [
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      },
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Mannington Area Rugs 035 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$11-$15 / sq.ft",
+    "meta": {
+      "type": "Area Rugs",
+      "brand": "Mannington",
+      "application": "Light Commercial",
+      "colorTone": "Modern Grey",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 7
+    }
+  },
+  {
+    "id": "product-36",
+    "title": "COREtec Hardwood 036",
+    "subtitle": "Hardwood | Solid | Hand finished",
+    "price": 6.45,
+    "badge": "New drop",
+    "tags": [
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      },
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "COREtec Hardwood 036 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$12-$16 / sq.ft",
+    "meta": {
+      "type": "Hardwood",
+      "brand": "COREtec",
+      "application": "Commercial",
+      "colorTone": "Natural Oak",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 8
+    }
+  },
+  {
+    "id": "product-37",
+    "title": "Quick-Step Luxury Vinyl 037",
+    "subtitle": "Luxury Vinyl | Waterproof core | Matte",
+    "price": 3.0,
+    "badge": "Best seller",
+    "tags": [
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Quick-Step Luxury Vinyl 037 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$6-$10 / sq.ft",
+    "meta": {
+      "type": "Luxury Vinyl",
+      "brand": "Quick-Step",
+      "application": "Residential",
+      "colorTone": "Warm Honey",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 9
+    }
+  },
+  {
+    "id": "product-38",
+    "title": "Lauzon Carpet 038",
+    "subtitle": "Carpet | Plush | Stain shield",
+    "price": 3.9,
+    "badge": "Designer pick",
+    "tags": [
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      },
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Lauzon Carpet 038 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$7-$11 / sq.ft",
+    "meta": {
+      "type": "Carpet",
+      "brand": "Lauzon",
+      "application": "Builder",
+      "colorTone": "Whites & Creams",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 10
+    }
+  },
+  {
+    "id": "product-39",
+    "title": "Duchateau Carpet Tile 039",
+    "subtitle": "Carpet Tile | Modular | Acoustic backing",
+    "price": 4.8,
+    "badge": "Limited stock",
+    "tags": [
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Duchateau Carpet Tile 039 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Carpet Tile",
+      "brand": "Duchateau",
+      "application": "Light Commercial",
+      "colorTone": "Smoky Neutral",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 11
+    }
+  },
+  {
+    "id": "product-40",
+    "title": "Shaw Laminate 040",
+    "subtitle": "Laminate | Scratch guard | Matte",
+    "price": 4.65,
+    "badge": "Studio favorite",
+    "tags": [
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Shaw Laminate 040 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Laminate",
+      "brand": "Shaw",
+      "application": "Commercial",
+      "colorTone": "Charcoal",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 12
+    }
+  },
+  {
+    "id": "product-41",
+    "title": "Anderson Tuftex Stone & Tile 041",
+    "subtitle": "Stone & Tile | Oversized | Indoor/outdoor",
+    "price": 5.55,
+    "badge": "Top searched",
+    "tags": [
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      },
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Anderson Tuftex Stone & Tile 041 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$11-$15 / sq.ft",
+    "meta": {
+      "type": "Stone & Tile",
+      "brand": "Anderson Tuftex",
+      "application": "Residential",
+      "colorTone": "Modern Grey",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 3
+    }
+  },
+  {
+    "id": "product-42",
+    "title": "Mannington Area Rugs 042",
+    "subtitle": "Area Rugs | Hand-loomed | Layer friendly",
+    "price": 6.45,
+    "badge": "New drop",
+    "tags": [
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      },
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Mannington Area Rugs 042 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$12-$16 / sq.ft",
+    "meta": {
+      "type": "Area Rugs",
+      "brand": "Mannington",
+      "application": "Builder",
+      "colorTone": "Natural Oak",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 4
+    }
+  },
+  {
+    "id": "product-43",
+    "title": "COREtec Hardwood 043",
+    "subtitle": "Hardwood | Solid | Hand finished",
+    "price": 3.0,
+    "badge": "Best seller",
+    "tags": [
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      },
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "COREtec Hardwood 043 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$6-$10 / sq.ft",
+    "meta": {
+      "type": "Hardwood",
+      "brand": "COREtec",
+      "application": "Light Commercial",
+      "colorTone": "Warm Honey",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 5
+    }
+  },
+  {
+    "id": "product-44",
+    "title": "Quick-Step Luxury Vinyl 044",
+    "subtitle": "Luxury Vinyl | Waterproof core | Matte",
+    "price": 3.9,
+    "badge": "Designer pick",
+    "tags": [
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      },
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Quick-Step Luxury Vinyl 044 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$7-$11 / sq.ft",
+    "meta": {
+      "type": "Luxury Vinyl",
+      "brand": "Quick-Step",
+      "application": "Commercial",
+      "colorTone": "Whites & Creams",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 6
+    }
+  },
+  {
+    "id": "product-45",
+    "title": "Lauzon Carpet 045",
+    "subtitle": "Carpet | Plush | Stain shield",
+    "price": 4.8,
+    "badge": "Limited stock",
+    "tags": [
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Lauzon Carpet 045 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Carpet",
+      "brand": "Lauzon",
+      "application": "Residential",
+      "colorTone": "Smoky Neutral",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 7
+    }
+  },
+  {
+    "id": "product-46",
+    "title": "Duchateau Carpet Tile 046",
+    "subtitle": "Carpet Tile | Modular | Acoustic backing",
+    "price": 4.65,
+    "badge": "Studio favorite",
+    "tags": [
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      },
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Duchateau Carpet Tile 046 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Carpet Tile",
+      "brand": "Duchateau",
+      "application": "Builder",
+      "colorTone": "Charcoal",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 8
+    }
+  },
+  {
+    "id": "product-47",
+    "title": "Shaw Laminate 047",
+    "subtitle": "Laminate | Scratch guard | Matte",
+    "price": 5.55,
+    "badge": "Top searched",
+    "tags": [
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Shaw Laminate 047 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$11-$15 / sq.ft",
+    "meta": {
+      "type": "Laminate",
+      "brand": "Shaw",
+      "application": "Light Commercial",
+      "colorTone": "Modern Grey",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 9
+    }
+  },
+  {
+    "id": "product-48",
+    "title": "Anderson Tuftex Stone & Tile 048",
+    "subtitle": "Stone & Tile | Oversized | Indoor/outdoor",
+    "price": 6.45,
+    "badge": "New drop",
+    "tags": [
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Anderson Tuftex Stone & Tile 048 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$12-$16 / sq.ft",
+    "meta": {
+      "type": "Stone & Tile",
+      "brand": "Anderson Tuftex",
+      "application": "Commercial",
+      "colorTone": "Natural Oak",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 10
+    }
+  },
+  {
+    "id": "product-49",
+    "title": "Mannington Area Rugs 049",
+    "subtitle": "Area Rugs | Hand-loomed | Layer friendly",
+    "price": 3.0,
+    "badge": "Best seller",
+    "tags": [
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      },
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Mannington Area Rugs 049 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$6-$10 / sq.ft",
+    "meta": {
+      "type": "Area Rugs",
+      "brand": "Mannington",
+      "application": "Residential",
+      "colorTone": "Warm Honey",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 11
+    }
+  },
+  {
+    "id": "product-50",
+    "title": "COREtec Hardwood 050",
+    "subtitle": "Hardwood | Solid | Hand finished",
+    "price": 3.9,
+    "badge": "Designer pick",
+    "tags": [
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      },
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "COREtec Hardwood 050 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$7-$11 / sq.ft",
+    "meta": {
+      "type": "Hardwood",
+      "brand": "COREtec",
+      "application": "Builder",
+      "colorTone": "Whites & Creams",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 12
+    }
+  },
+  {
+    "id": "product-51",
+    "title": "Quick-Step Luxury Vinyl 051",
+    "subtitle": "Luxury Vinyl | Waterproof core | Matte",
+    "price": 4.8,
+    "badge": "Limited stock",
+    "tags": [
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      },
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Quick-Step Luxury Vinyl 051 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Luxury Vinyl",
+      "brand": "Quick-Step",
+      "application": "Light Commercial",
+      "colorTone": "Smoky Neutral",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 3
+    }
+  },
+  {
+    "id": "product-52",
+    "title": "Lauzon Carpet 052",
+    "subtitle": "Carpet | Plush | Stain shield",
+    "price": 4.65,
+    "badge": "Studio favorite",
+    "tags": [
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      },
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Lauzon Carpet 052 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Carpet",
+      "brand": "Lauzon",
+      "application": "Commercial",
+      "colorTone": "Charcoal",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 4
+    }
+  },
+  {
+    "id": "product-53",
+    "title": "Duchateau Carpet Tile 053",
+    "subtitle": "Carpet Tile | Modular | Acoustic backing",
+    "price": 5.55,
+    "badge": "Top searched",
+    "tags": [
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Duchateau Carpet Tile 053 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$11-$15 / sq.ft",
+    "meta": {
+      "type": "Carpet Tile",
+      "brand": "Duchateau",
+      "application": "Residential",
+      "colorTone": "Modern Grey",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 5
+    }
+  },
+  {
+    "id": "product-54",
+    "title": "Shaw Laminate 054",
+    "subtitle": "Laminate | Scratch guard | Matte",
+    "price": 6.45,
+    "badge": "New drop",
+    "tags": [
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      },
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Shaw Laminate 054 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$12-$16 / sq.ft",
+    "meta": {
+      "type": "Laminate",
+      "brand": "Shaw",
+      "application": "Builder",
+      "colorTone": "Natural Oak",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 6
+    }
+  },
+  {
+    "id": "product-55",
+    "title": "Anderson Tuftex Stone & Tile 055",
+    "subtitle": "Stone & Tile | Oversized | Indoor/outdoor",
+    "price": 3.0,
+    "badge": "Best seller",
+    "tags": [
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Anderson Tuftex Stone & Tile 055 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$6-$10 / sq.ft",
+    "meta": {
+      "type": "Stone & Tile",
+      "brand": "Anderson Tuftex",
+      "application": "Light Commercial",
+      "colorTone": "Warm Honey",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 7
+    }
+  },
+  {
+    "id": "product-56",
+    "title": "Mannington Area Rugs 056",
+    "subtitle": "Area Rugs | Hand-loomed | Layer friendly",
+    "price": 3.9,
+    "badge": "Designer pick",
+    "tags": [
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Mannington Area Rugs 056 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$7-$11 / sq.ft",
+    "meta": {
+      "type": "Area Rugs",
+      "brand": "Mannington",
+      "application": "Commercial",
+      "colorTone": "Whites & Creams",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 8
+    }
+  },
+  {
+    "id": "product-57",
+    "title": "COREtec Hardwood 057",
+    "subtitle": "Hardwood | Solid | Hand finished",
+    "price": 4.8,
+    "badge": "Limited stock",
+    "tags": [
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      },
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "COREtec Hardwood 057 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Hardwood",
+      "brand": "COREtec",
+      "application": "Residential",
+      "colorTone": "Smoky Neutral",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 9
+    }
+  },
+  {
+    "id": "product-58",
+    "title": "Quick-Step Luxury Vinyl 058",
+    "subtitle": "Luxury Vinyl | Waterproof core | Matte",
+    "price": 4.65,
+    "badge": "Studio favorite",
+    "tags": [
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      },
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Quick-Step Luxury Vinyl 058 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Luxury Vinyl",
+      "brand": "Quick-Step",
+      "application": "Builder",
+      "colorTone": "Charcoal",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 10
+    }
+  },
+  {
+    "id": "product-59",
+    "title": "Lauzon Carpet 059",
+    "subtitle": "Carpet | Plush | Stain shield",
+    "price": 5.55,
+    "badge": "Top searched",
+    "tags": [
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      },
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Lauzon Carpet 059 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$11-$15 / sq.ft",
+    "meta": {
+      "type": "Carpet",
+      "brand": "Lauzon",
+      "application": "Light Commercial",
+      "colorTone": "Modern Grey",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 11
+    }
+  },
+  {
+    "id": "product-60",
+    "title": "Duchateau Carpet Tile 060",
+    "subtitle": "Carpet Tile | Modular | Acoustic backing",
+    "price": 6.45,
+    "badge": "New drop",
+    "tags": [
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      },
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Duchateau Carpet Tile 060 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$12-$16 / sq.ft",
+    "meta": {
+      "type": "Carpet Tile",
+      "brand": "Duchateau",
+      "application": "Commercial",
+      "colorTone": "Natural Oak",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 12
+    }
+  },
+  {
+    "id": "product-61",
+    "title": "Shaw Laminate 061",
+    "subtitle": "Laminate | Scratch guard | Matte",
+    "price": 3.0,
+    "badge": "Best seller",
+    "tags": [
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Shaw Laminate 061 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$6-$10 / sq.ft",
+    "meta": {
+      "type": "Laminate",
+      "brand": "Shaw",
+      "application": "Residential",
+      "colorTone": "Warm Honey",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 3
+    }
+  },
+  {
+    "id": "product-62",
+    "title": "Anderson Tuftex Stone & Tile 062",
+    "subtitle": "Stone & Tile | Oversized | Indoor/outdoor",
+    "price": 3.9,
+    "badge": "Designer pick",
+    "tags": [
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      },
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Anderson Tuftex Stone & Tile 062 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$7-$11 / sq.ft",
+    "meta": {
+      "type": "Stone & Tile",
+      "brand": "Anderson Tuftex",
+      "application": "Builder",
+      "colorTone": "Whites & Creams",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 4
+    }
+  },
+  {
+    "id": "product-63",
+    "title": "Mannington Area Rugs 063",
+    "subtitle": "Area Rugs | Hand-loomed | Layer friendly",
+    "price": 4.8,
+    "badge": "Limited stock",
+    "tags": [
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Mannington Area Rugs 063 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Area Rugs",
+      "brand": "Mannington",
+      "application": "Light Commercial",
+      "colorTone": "Smoky Neutral",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 5
+    }
+  },
+  {
+    "id": "product-64",
+    "title": "COREtec Hardwood 064",
+    "subtitle": "Hardwood | Solid | Hand finished",
+    "price": 4.65,
+    "badge": "Studio favorite",
+    "tags": [
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "COREtec Hardwood 064 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Hardwood",
+      "brand": "COREtec",
+      "application": "Commercial",
+      "colorTone": "Charcoal",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 6
+    }
+  },
+  {
+    "id": "product-65",
+    "title": "Quick-Step Luxury Vinyl 065",
+    "subtitle": "Luxury Vinyl | Waterproof core | Matte",
+    "price": 5.55,
+    "badge": "Top searched",
+    "tags": [
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      },
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Quick-Step Luxury Vinyl 065 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$11-$15 / sq.ft",
+    "meta": {
+      "type": "Luxury Vinyl",
+      "brand": "Quick-Step",
+      "application": "Residential",
+      "colorTone": "Modern Grey",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 7
+    }
+  },
+  {
+    "id": "product-66",
+    "title": "Lauzon Carpet 066",
+    "subtitle": "Carpet | Plush | Stain shield",
+    "price": 6.45,
+    "badge": "New drop",
+    "tags": [
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      },
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Lauzon Carpet 066 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$12-$16 / sq.ft",
+    "meta": {
+      "type": "Carpet",
+      "brand": "Lauzon",
+      "application": "Builder",
+      "colorTone": "Natural Oak",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 8
+    }
+  },
+  {
+    "id": "product-67",
+    "title": "Duchateau Carpet Tile 067",
+    "subtitle": "Carpet Tile | Modular | Acoustic backing",
+    "price": 3.0,
+    "badge": "Best seller",
+    "tags": [
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      },
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Duchateau Carpet Tile 067 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$6-$10 / sq.ft",
+    "meta": {
+      "type": "Carpet Tile",
+      "brand": "Duchateau",
+      "application": "Light Commercial",
+      "colorTone": "Warm Honey",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 9
+    }
+  },
+  {
+    "id": "product-68",
+    "title": "Shaw Laminate 068",
+    "subtitle": "Laminate | Scratch guard | Matte",
+    "price": 3.9,
+    "badge": "Designer pick",
+    "tags": [
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      },
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Shaw Laminate 068 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$7-$11 / sq.ft",
+    "meta": {
+      "type": "Laminate",
+      "brand": "Shaw",
+      "application": "Commercial",
+      "colorTone": "Whites & Creams",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 10
+    }
+  },
+  {
+    "id": "product-69",
+    "title": "Anderson Tuftex Stone & Tile 069",
+    "subtitle": "Stone & Tile | Oversized | Indoor/outdoor",
+    "price": 4.8,
+    "badge": "Limited stock",
+    "tags": [
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Anderson Tuftex Stone & Tile 069 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Stone & Tile",
+      "brand": "Anderson Tuftex",
+      "application": "Residential",
+      "colorTone": "Smoky Neutral",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 11
+    }
+  },
+  {
+    "id": "product-70",
+    "title": "Mannington Area Rugs 070",
+    "subtitle": "Area Rugs | Hand-loomed | Layer friendly",
+    "price": 4.65,
+    "badge": "Studio favorite",
+    "tags": [
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      },
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Mannington Area Rugs 070 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Area Rugs",
+      "brand": "Mannington",
+      "application": "Builder",
+      "colorTone": "Charcoal",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 12
+    }
+  },
+  {
+    "id": "product-71",
+    "title": "COREtec Hardwood 071",
+    "subtitle": "Hardwood | Solid | Hand finished",
+    "price": 5.55,
+    "badge": "Top searched",
+    "tags": [
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "COREtec Hardwood 071 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$11-$15 / sq.ft",
+    "meta": {
+      "type": "Hardwood",
+      "brand": "COREtec",
+      "application": "Light Commercial",
+      "colorTone": "Modern Grey",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 3
+    }
+  },
+  {
+    "id": "product-72",
+    "title": "Quick-Step Luxury Vinyl 072",
+    "subtitle": "Luxury Vinyl | Waterproof core | Matte",
+    "price": 6.45,
+    "badge": "New drop",
+    "tags": [
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Quick-Step Luxury Vinyl 072 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$12-$16 / sq.ft",
+    "meta": {
+      "type": "Luxury Vinyl",
+      "brand": "Quick-Step",
+      "application": "Commercial",
+      "colorTone": "Natural Oak",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 4
+    }
+  },
+  {
+    "id": "product-73",
+    "title": "Lauzon Carpet 073",
+    "subtitle": "Carpet | Plush | Stain shield",
+    "price": 3.0,
+    "badge": "Best seller",
+    "tags": [
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      },
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Lauzon Carpet 073 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$6-$10 / sq.ft",
+    "meta": {
+      "type": "Carpet",
+      "brand": "Lauzon",
+      "application": "Residential",
+      "colorTone": "Warm Honey",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 5
+    }
+  },
+  {
+    "id": "product-74",
+    "title": "Duchateau Carpet Tile 074",
+    "subtitle": "Carpet Tile | Modular | Acoustic backing",
+    "price": 3.9,
+    "badge": "Designer pick",
+    "tags": [
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      },
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Duchateau Carpet Tile 074 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$7-$11 / sq.ft",
+    "meta": {
+      "type": "Carpet Tile",
+      "brand": "Duchateau",
+      "application": "Builder",
+      "colorTone": "Whites & Creams",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 6
+    }
+  },
+  {
+    "id": "product-75",
+    "title": "Shaw Laminate 075",
+    "subtitle": "Laminate | Scratch guard | Matte",
+    "price": 4.8,
+    "badge": "Limited stock",
+    "tags": [
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      },
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Shaw Laminate 075 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Laminate",
+      "brand": "Shaw",
+      "application": "Light Commercial",
+      "colorTone": "Smoky Neutral",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 7
+    }
+  },
+  {
+    "id": "product-76",
+    "title": "Anderson Tuftex Stone & Tile 076",
+    "subtitle": "Stone & Tile | Oversized | Indoor/outdoor",
+    "price": 4.65,
+    "badge": "Studio favorite",
+    "tags": [
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      },
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Anderson Tuftex Stone & Tile 076 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Stone & Tile",
+      "brand": "Anderson Tuftex",
+      "application": "Commercial",
+      "colorTone": "Charcoal",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 8
+    }
+  },
+  {
+    "id": "product-77",
+    "title": "Mannington Area Rugs 077",
+    "subtitle": "Area Rugs | Hand-loomed | Layer friendly",
+    "price": 5.55,
+    "badge": "Top searched",
+    "tags": [
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Mannington Area Rugs 077 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$11-$15 / sq.ft",
+    "meta": {
+      "type": "Area Rugs",
+      "brand": "Mannington",
+      "application": "Residential",
+      "colorTone": "Modern Grey",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 9
+    }
+  },
+  {
+    "id": "product-78",
+    "title": "COREtec Hardwood 078",
+    "subtitle": "Hardwood | Solid | Hand finished",
+    "price": 6.45,
+    "badge": "New drop",
+    "tags": [
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      },
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "COREtec Hardwood 078 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$12-$16 / sq.ft",
+    "meta": {
+      "type": "Hardwood",
+      "brand": "COREtec",
+      "application": "Builder",
+      "colorTone": "Natural Oak",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 10
+    }
+  },
+  {
+    "id": "product-79",
+    "title": "Quick-Step Luxury Vinyl 079",
+    "subtitle": "Luxury Vinyl | Waterproof core | Matte",
+    "price": 3.0,
+    "badge": "Best seller",
+    "tags": [
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Quick-Step Luxury Vinyl 079 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$6-$10 / sq.ft",
+    "meta": {
+      "type": "Luxury Vinyl",
+      "brand": "Quick-Step",
+      "application": "Light Commercial",
+      "colorTone": "Warm Honey",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 11
+    }
+  },
+  {
+    "id": "product-80",
+    "title": "Lauzon Carpet 080",
+    "subtitle": "Carpet | Plush | Stain shield",
+    "price": 3.9,
+    "badge": "Designer pick",
+    "tags": [
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Lauzon Carpet 080 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$7-$11 / sq.ft",
+    "meta": {
+      "type": "Carpet",
+      "brand": "Lauzon",
+      "application": "Commercial",
+      "colorTone": "Whites & Creams",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 12
+    }
+  },
+  {
+    "id": "product-81",
+    "title": "Duchateau Carpet Tile 081",
+    "subtitle": "Carpet Tile | Modular | Acoustic backing",
+    "price": 4.8,
+    "badge": "Limited stock",
+    "tags": [
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      },
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Duchateau Carpet Tile 081 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Carpet Tile",
+      "brand": "Duchateau",
+      "application": "Residential",
+      "colorTone": "Smoky Neutral",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 3
+    }
+  },
+  {
+    "id": "product-82",
+    "title": "Shaw Laminate 082",
+    "subtitle": "Laminate | Scratch guard | Matte",
+    "price": 4.65,
+    "badge": "Studio favorite",
+    "tags": [
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      },
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Shaw Laminate 082 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Laminate",
+      "brand": "Shaw",
+      "application": "Builder",
+      "colorTone": "Charcoal",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 4
+    }
+  },
+  {
+    "id": "product-83",
+    "title": "Anderson Tuftex Stone & Tile 083",
+    "subtitle": "Stone & Tile | Oversized | Indoor/outdoor",
+    "price": 5.55,
+    "badge": "Top searched",
+    "tags": [
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      },
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Anderson Tuftex Stone & Tile 083 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$11-$15 / sq.ft",
+    "meta": {
+      "type": "Stone & Tile",
+      "brand": "Anderson Tuftex",
+      "application": "Light Commercial",
+      "colorTone": "Modern Grey",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 5
+    }
+  },
+  {
+    "id": "product-84",
+    "title": "Mannington Area Rugs 084",
+    "subtitle": "Area Rugs | Hand-loomed | Layer friendly",
+    "price": 6.45,
+    "badge": "New drop",
+    "tags": [
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      },
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Mannington Area Rugs 084 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$12-$16 / sq.ft",
+    "meta": {
+      "type": "Area Rugs",
+      "brand": "Mannington",
+      "application": "Commercial",
+      "colorTone": "Natural Oak",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 6
+    }
+  },
+  {
+    "id": "product-85",
+    "title": "COREtec Hardwood 085",
+    "subtitle": "Hardwood | Solid | Hand finished",
+    "price": 3.0,
+    "badge": "Best seller",
+    "tags": [
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "COREtec Hardwood 085 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$6-$10 / sq.ft",
+    "meta": {
+      "type": "Hardwood",
+      "brand": "COREtec",
+      "application": "Residential",
+      "colorTone": "Warm Honey",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 7
+    }
+  },
+  {
+    "id": "product-86",
+    "title": "Quick-Step Luxury Vinyl 086",
+    "subtitle": "Luxury Vinyl | Waterproof core | Matte",
+    "price": 3.9,
+    "badge": "Designer pick",
+    "tags": [
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      },
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Quick-Step Luxury Vinyl 086 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$7-$11 / sq.ft",
+    "meta": {
+      "type": "Luxury Vinyl",
+      "brand": "Quick-Step",
+      "application": "Builder",
+      "colorTone": "Whites & Creams",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 8
+    }
+  },
+  {
+    "id": "product-87",
+    "title": "Lauzon Carpet 087",
+    "subtitle": "Carpet | Plush | Stain shield",
+    "price": 4.8,
+    "badge": "Limited stock",
+    "tags": [
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Lauzon Carpet 087 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Carpet",
+      "brand": "Lauzon",
+      "application": "Light Commercial",
+      "colorTone": "Smoky Neutral",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 9
+    }
+  },
+  {
+    "id": "product-88",
+    "title": "Duchateau Carpet Tile 088",
+    "subtitle": "Carpet Tile | Modular | Acoustic backing",
+    "price": 4.65,
+    "badge": "Studio favorite",
+    "tags": [
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Duchateau Carpet Tile 088 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Carpet Tile",
+      "brand": "Duchateau",
+      "application": "Commercial",
+      "colorTone": "Charcoal",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 10
+    }
+  },
+  {
+    "id": "product-89",
+    "title": "Shaw Laminate 089",
+    "subtitle": "Laminate | Scratch guard | Matte",
+    "price": 5.55,
+    "badge": "Top searched",
+    "tags": [
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      },
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Shaw Laminate 089 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$11-$15 / sq.ft",
+    "meta": {
+      "type": "Laminate",
+      "brand": "Shaw",
+      "application": "Residential",
+      "colorTone": "Modern Grey",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 11
+    }
+  },
+  {
+    "id": "product-90",
+    "title": "Anderson Tuftex Stone & Tile 090",
+    "subtitle": "Stone & Tile | Oversized | Indoor/outdoor",
+    "price": 6.45,
+    "badge": "New drop",
+    "tags": [
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      },
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Anderson Tuftex Stone & Tile 090 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$12-$16 / sq.ft",
+    "meta": {
+      "type": "Stone & Tile",
+      "brand": "Anderson Tuftex",
+      "application": "Builder",
+      "colorTone": "Natural Oak",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 12
+    }
+  },
+  {
+    "id": "product-91",
+    "title": "Mannington Area Rugs 091",
+    "subtitle": "Area Rugs | Hand-loomed | Layer friendly",
+    "price": 3.0,
+    "badge": "Best seller",
+    "tags": [
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      },
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Mannington Area Rugs 091 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$6-$10 / sq.ft",
+    "meta": {
+      "type": "Area Rugs",
+      "brand": "Mannington",
+      "application": "Light Commercial",
+      "colorTone": "Warm Honey",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 3
+    }
+  },
+  {
+    "id": "product-92",
+    "title": "COREtec Hardwood 092",
+    "subtitle": "Hardwood | Solid | Hand finished",
+    "price": 3.9,
+    "badge": "Designer pick",
+    "tags": [
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      },
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "COREtec Hardwood 092 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$7-$11 / sq.ft",
+    "meta": {
+      "type": "Hardwood",
+      "brand": "COREtec",
+      "application": "Commercial",
+      "colorTone": "Whites & Creams",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 4
+    }
+  },
+  {
+    "id": "product-93",
+    "title": "Quick-Step Luxury Vinyl 093",
+    "subtitle": "Luxury Vinyl | Waterproof core | Matte",
+    "price": 4.8,
+    "badge": "Limited stock",
+    "tags": [
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Quick-Step Luxury Vinyl 093 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Luxury Vinyl",
+      "brand": "Quick-Step",
+      "application": "Residential",
+      "colorTone": "Smoky Neutral",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 5
+    }
+  },
+  {
+    "id": "product-94",
+    "title": "Lauzon Carpet 094",
+    "subtitle": "Carpet | Plush | Stain shield",
+    "price": 4.65,
+    "badge": "Studio favorite",
+    "tags": [
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      },
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Lauzon Carpet 094 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Carpet",
+      "brand": "Lauzon",
+      "application": "Builder",
+      "colorTone": "Charcoal",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 6
+    }
+  },
+  {
+    "id": "product-95",
+    "title": "Duchateau Carpet Tile 095",
+    "subtitle": "Carpet Tile | Modular | Acoustic backing",
+    "price": 5.55,
+    "badge": "Top searched",
+    "tags": [
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Duchateau Carpet Tile 095 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$11-$15 / sq.ft",
+    "meta": {
+      "type": "Carpet Tile",
+      "brand": "Duchateau",
+      "application": "Light Commercial",
+      "colorTone": "Modern Grey",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 7
+    }
+  },
+  {
+    "id": "product-96",
+    "title": "Shaw Laminate 096",
+    "subtitle": "Laminate | Scratch guard | Matte",
+    "price": 6.45,
+    "badge": "New drop",
+    "tags": [
+      {
+        "label": "Layer ready",
+        "tone": "slate"
+      },
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Shaw Laminate 096 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$12-$16 / sq.ft",
+    "meta": {
+      "type": "Laminate",
+      "brand": "Shaw",
+      "application": "Commercial",
+      "colorTone": "Natural Oak",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 8
+    }
+  },
+  {
+    "id": "product-97",
+    "title": "Anderson Tuftex Stone & Tile 097",
+    "subtitle": "Stone & Tile | Oversized | Indoor/outdoor",
+    "price": 3.0,
+    "badge": "Best seller",
+    "tags": [
+      {
+        "label": "Pet friendly",
+        "tone": "emerald"
+      },
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Anderson Tuftex Stone & Tile 097 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$6-$10 / sq.ft",
+    "meta": {
+      "type": "Stone & Tile",
+      "brand": "Anderson Tuftex",
+      "application": "Residential",
+      "colorTone": "Warm Honey",
+      "installation": "Floating",
+      "look": "Wide Plank",
+      "visualizable": true,
+      "width": 9
+    }
+  },
+  {
+    "id": "product-98",
+    "title": "Mannington Area Rugs 098",
+    "subtitle": "Area Rugs | Hand-loomed | Layer friendly",
+    "price": 3.9,
+    "badge": "Designer pick",
+    "tags": [
+      {
+        "label": "Water-resistant",
+        "tone": "blue"
+      },
+      {
+        "label": "Loft ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Mannington Area Rugs 098 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$7-$11 / sq.ft",
+    "meta": {
+      "type": "Area Rugs",
+      "brand": "Mannington",
+      "application": "Builder",
+      "colorTone": "Whites & Creams",
+      "installation": "Glue Down",
+      "look": "Herringbone",
+      "visualizable": false,
+      "width": 10
+    }
+  },
+  {
+    "id": "product-99",
+    "title": "COREtec Hardwood 099",
+    "subtitle": "Hardwood | Solid | Hand finished",
+    "price": 4.8,
+    "badge": "Limited stock",
+    "tags": [
+      {
+        "label": "Quick install",
+        "tone": "slate"
+      },
+      {
+        "label": "Family zone",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "COREtec Hardwood 099 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Hardwood",
+      "brand": "COREtec",
+      "application": "Light Commercial",
+      "colorTone": "Smoky Neutral",
+      "installation": "Click Lock",
+      "look": "Chevron",
+      "visualizable": true,
+      "width": 11
+    }
+  },
+  {
+    "id": "product-100",
+    "title": "Quick-Step Luxury Vinyl 100",
+    "subtitle": "Luxury Vinyl | Waterproof core | Matte",
+    "price": 4.65,
+    "badge": "Studio favorite",
+    "tags": [
+      {
+        "label": "Radiant heat",
+        "tone": "slate"
+      },
+      {
+        "label": "Rental ready",
+        "tone": "slate"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg",
+    "alt": "Quick-Step Luxury Vinyl 100 lifestyle photo",
+    "cta": "Quick view",
+    "swatches": [
+      {
+        "color": "#b48a64",
+        "border": "#d8b596",
+        "label": "Honey"
+      },
+      {
+        "color": "#8c5f3c",
+        "border": "#b6865c",
+        "label": "Chestnut"
+      },
+      {
+        "color": "#d4c2aa",
+        "border": "#e6d7c2",
+        "label": "Sand"
+      }
+    ],
+    "swatchOverflow": "+2",
+    "estimate": "$9-$13 / sq.ft",
+    "meta": {
+      "type": "Luxury Vinyl",
+      "brand": "Quick-Step",
+      "application": "Commercial",
+      "colorTone": "Charcoal",
+      "installation": "Nail Down",
+      "look": "Parquet",
+      "visualizable": false,
+      "width": 12
+    }
+  }
+]
